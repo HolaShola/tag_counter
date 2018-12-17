@@ -1,0 +1,4 @@
+__pycache__/
+dist/
+tagcounter.egg-info/
+*.pickle
